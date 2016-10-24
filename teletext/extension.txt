@@ -1,0 +1,6 @@
+
+Extension
+
+For extension assignement, I have converted teletext to html. Once the hex file has been organised in teletext.c the array of structures is passed into a function from html.c. This then creates a html file called teletext_html.html. 
+
+The html.c creates the basic structure of html files, defaults to black background with white text, creates basic paragraph tags with text and has the ability to display text in a different colour and background colour changes (small bug is present). No ability to display in double height or block graphics. 

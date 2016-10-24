@@ -1,0 +1,8 @@
+
+Brief Instructions:
+
+In terminal type:
+1) make
+2) ./teletext test.m7
+
+This should run everything, including tests and extension. 
